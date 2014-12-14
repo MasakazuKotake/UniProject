@@ -1,0 +1,20 @@
+﻿2014/12/13 7:32:48 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\TEMP\uni\ver1.00\ポリゴン描画処理.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\Uni_ver1.00.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+       Manifest:
+         すべての出力が最新のものです。
+       FinalizeBuildStatus:
+         ファイル "Debug\Uni_ver1.00.unsuccessfulbuild" を削除しています。
+         "Debug\Uni_ver1.00.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\TEMP\uni\ver1.00\ポリゴン描画処理.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.08

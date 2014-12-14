@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uni_ver1.00", "ポリゴン描画処理.vcxproj", "{A2F22F72-413E-4828-9FA6-57099A258ED1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniMath.h", "UniMath.h\UniMath.h.vcxproj", "{35A99005-6AB6-4252-8D5D-19A19E2F7C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F22F72-413E-4828-9FA6-57099A258ED1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2F22F72-413E-4828-9FA6-57099A258ED1}.Debug|Win32.Build.0 = Debug|Win32
+		{A2F22F72-413E-4828-9FA6-57099A258ED1}.Release|Win32.ActiveCfg = Release|Win32
+		{A2F22F72-413E-4828-9FA6-57099A258ED1}.Release|Win32.Build.0 = Release|Win32
+		{35A99005-6AB6-4252-8D5D-19A19E2F7C62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35A99005-6AB6-4252-8D5D-19A19E2F7C62}.Debug|Win32.Build.0 = Debug|Win32
+		{35A99005-6AB6-4252-8D5D-19A19E2F7C62}.Release|Win32.ActiveCfg = Release|Win32
+		{35A99005-6AB6-4252-8D5D-19A19E2F7C62}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
